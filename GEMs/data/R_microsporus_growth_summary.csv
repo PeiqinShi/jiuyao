@@ -1,0 +1,5 @@
+species,condition,status,growth_rate
+R_microsporus,glucose_aerobic,optimal,0.3836494825668141
+R_microsporus,glucose_low_o2,optimal,0.22408519870238233
+R_microsporus,dextrin_aerobic,optimal,0.8929917294677979
+R_microsporus,starch_aerobic,optimal,0.8929917294677991

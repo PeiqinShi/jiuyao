@@ -1,0 +1,6 @@
+species,condition,status,growth_rate
+B_subtilis,glucose_aerobic,optimal,0.6929463499658638
+B_subtilis,glucose_low_o2,optimal,0.24872713286500034
+B_subtilis,maltose_aerobic,optimal,0.8983875545273209
+B_subtilis,dextrin_aerobic,optimal,0.8798258281941131
+B_subtilis,starch_aerobic,optimal,0.879825828194113
