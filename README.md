@@ -157,8 +157,3 @@ Before running:
 
 These notebooks include feature selection, model comparison, hyperparameter tuning, SHAP analysis, and regression performance evaluation.
 
-## Notes
-
-- The notebooks currently record a `syscoms` kernel in their metadata.
-- A dedicated `requirements.txt` or `environment.yml` would be a good next step for full reproducibility.
-- If package conflicts appear, use Python `3.11` first; it is the safest target for the current dependency set.
